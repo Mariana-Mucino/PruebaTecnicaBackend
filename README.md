@@ -2,4 +2,10 @@
 
 Prueba Técnica BackEnd
 
-Favor de leer los pasos a seguir en el archivo Instrucciones.md
+CH57
+
+22/08/2025
+
+10:40
+
+Mariana González Muciño
